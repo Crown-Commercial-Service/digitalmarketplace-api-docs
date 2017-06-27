@@ -1,2 +1,4 @@
-/build
 node_modules
+
+/build
+source/index.html.md
